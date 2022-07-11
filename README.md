@@ -25,6 +25,7 @@
 - 新HSK 5级
 - 한국사지도사 1급
 - 1종보통운전면허
+- 정보처리기사 필기 합 (2022.07)
 
 ## 교육
 
@@ -42,14 +43,14 @@
 ### BackEnd
 
 - JAVA
-- Spring
+- Spring Framework
 - PHP(Laravel Framework, CakePHP Framework)
 
 ### DB
 
 - Oracle
-- MariaDB 
-- MSSQL
+- MariaDB
+- MySQL
 
 ### Tool
 
@@ -60,7 +61,7 @@
 
 - 형상관리 : SVN
 - 협업 툴 : Trello, Google Drive, Bitbucket(git 연동)
-- 기타 : Slack, Asana
+- 기타 : Slack, Asana / photoshop
 
 ------------------------------------------------------------------
 
@@ -168,7 +169,7 @@ https://plan.mykoreatrip.com/admin
   - [관리자 웹] 쿠폰 관리 - 해당 상품 포인트 설정할 수 있는 기능
 - 기간 : 2021.05 ~ 2021.05
 
-#### 그 외 개발 및 유지보수
+#### 그 외 프로젝트
 - 개발
   - 청소년활동진흥원 Non-ActiveX 사업 > 레포트 작업
 
@@ -176,18 +177,23 @@ https://plan.mykoreatrip.com/admin
   - 포천시청
   - 노작홍사용
 
+- 서비스(사이트) 기획
+  - 더원 프로젝트 기획 (2021.08 ~ ing) 
+
+- SNS 광고
+  - 페이스북, 인스타그램 마케팅 광고
+
 ## 앞으로의 계획
 
 #### ~ ing
 
-- 정보처리기사 필기
+- 정보처리기사 실기
 
 #### plan
 
 - Vue.js, React.js
-- SpringBoot, JPA
-- iOS(swift)
+- Python
 
 ## 각오
 
-- 약 2년이라는 짧은 기간이지만 여러 프로젝트를 하면서 팀 협업이 정말 중요하단 걸 느꼈습니다. 변화를 두려워 하지 않고 끊임없이 노력하는 개발자가 되겠습니다!
+- 비록 짧은 경력이지만, 여러 프로젝트를 하면서 팀 협업이 정말 중요하단 걸 느꼈습니다. 변화를 두려워 하지 않고 끊임없이 노력하는 개발자가 되겠습니다!
