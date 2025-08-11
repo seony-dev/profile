@@ -25,11 +25,12 @@
 - 新HSK 5级
 - 한국사지도사 1급
 - 1종보통운전면허
-- 정보처리기사 필기 합 (2022.07)
 
 ## 교육
 
-- JAVA 개발자 양성과정(2019.04 ~ 2019.10) / 한국소프트웨어인재개발원
+- 오픈프레임워크(JAVA) 활용 디지털융합 SW엔지니어 양성과정(2019.04 ~ 2019.10) / 한국소프트웨어인재개발원
+- 게임(Unity) 콘텐츠 개발자 양성과정 (2024.04 ~ 2024.07) / 아텐츠게임아카데미
+- (산대특) 언리얼 엔진 및 AI 툴을 활용한 게임 프로그래밍 실무 프로젝트 제작 과정 육성 (2024.11 ~ 2025.05) / 아텐츠게임아카데미
 
 ## 사용 기술
 ### Front
@@ -37,13 +38,13 @@
 - jsp
 - javascript ES5, ES6
 - jquery
+- React
 - miplatform
 - UbiDesigner 4.0
 
 ### BackEnd
 
-- JAVA
-- Spring Framework
+- JAVA (Spring Framework)
 - PHP(Laravel Framework, CakePHP Framework)
 
 ### DB
@@ -51,6 +52,11 @@
 - Oracle
 - MariaDB
 - MySQL
+
+### Game 
+
+- Unity / C#
+- Unreal / C++
 
 ### Tool
 
@@ -61,7 +67,7 @@
 
 - 형상관리 : SVN
 - 협업 툴 : Trello, Google Drive, Bitbucket(git 연동)
-- 기타 : Slack, Asana / photoshop
+- 기타 : Slack, Asana / Photoshop
 
 ------------------------------------------------------------------
 
@@ -178,7 +184,7 @@ https://plan.mykoreatrip.com/admin
   - 노작홍사용
 
 - 자사 서비스(사이트) 기획 및 관리
-  - 더원 프로젝트 기획 (2021.08 ~ ing) 
+  - 더원 프로젝트 기획 (2021.08 ~ 2022.08) 
 
 - SNS 광고
   - 페이스북, 인스타그램 마케팅 광고
@@ -191,9 +197,9 @@ https://plan.mykoreatrip.com/admin
 
 #### plan
 
-- Vue.js, React.js
-- Spring Boot
-- Python
+- AWS Cloud Practitioner Essentials 강의 수강 중 (AWS 기초 서비스 및 아키텍처 이해)
+- SQLD 준비 (~ 2025.11)
+
 
 ## 각오
 
